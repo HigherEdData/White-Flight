@@ -10,6 +10,6 @@ The repository has a separate ".ipynb" (iPython NoteBook) for each table and fig
 
 If you click on the link for an .ipnyb for any given table/figure in the repository, Github will render both the code and any figures or tables from the notebook.
 
-If the table formatting is funny with lines running over, use "⌘-" (control minus) to zoom your browser out.
+If the table formatting is funny with lines running over, use "⌘-" (control minus) to zoom your browser out. The following is the rendering of Figure 1 with the "dubois" stata scheme to use Du Boisian style elements (see https://www.dignityanddebt.org/projects/du-boisian-resources/):
 
 ![Screen Shot 2022-02-06 at 10 10 26 AM](https://user-images.githubusercontent.com/6294571/152694961-57f5d245-550f-483e-9e6f-eee041d40e59.png)
